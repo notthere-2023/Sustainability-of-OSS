@@ -1,2 +1,2 @@
 # openSourceSoftwareSustainability
-Collaborative research of  openSourceSoftwareSustainability, initiated by LXDAO.
+Collaborative research on sustainability of open source software, initiated by LXDAO.
