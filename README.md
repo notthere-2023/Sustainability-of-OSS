@@ -3,4 +3,4 @@ Collaborative research on sustainability of open source software, initiated by L
 ## How to join
 1. Fork the repository and create a folder with whatever name
 2. put all things during your exploration under your folder
-3. then commit and make a PR.
+3. then commit and make a PR
